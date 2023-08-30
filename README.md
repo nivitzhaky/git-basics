@@ -59,6 +59,16 @@ merge master into b2 and resolve the conflict
 
 ## revert with revert commit and push
 
+## make a new commit and push
+
+## revert with undo commit and force push
+
+## compare with local for an old commit
+
+## git history
+
+## compare with branch b1
+
 
 
 
