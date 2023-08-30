@@ -62,6 +62,10 @@ merge master into b2 and resolve the conflict
 ## make a new commit and push
 
 ## revert with undo commit and force push
+```
+git push --force
+```
+
 
 ## compare with local for an old commit
 
