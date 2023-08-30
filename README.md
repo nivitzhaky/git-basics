@@ -69,7 +69,7 @@ git push --force
 
 ## compare with local for an old commit
 
-## git history
+## compare with git history
 
 ## compare with branch b1
 
