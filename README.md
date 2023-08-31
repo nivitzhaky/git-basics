@@ -47,6 +47,7 @@ make a change and push again
 ## create 2 branchs (b1 and b2) on github
 
 ## update project and checkout b1 on intellij - always rebase
+make change and shelve it!!! <br>
 commit and push to b1 <br>
 
 
